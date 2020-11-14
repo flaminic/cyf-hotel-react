@@ -18,6 +18,16 @@
   font-weight: bold;
 }
 
+.App-footer {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+}
+
 .App-title {
   font-size: 1.5em;
 }
@@ -54,4 +64,8 @@ tr {
 
 .card {
   width: 18rem;
+}
+
+.centered {
+  text-align: center;
 }
